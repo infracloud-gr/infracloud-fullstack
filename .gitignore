@@ -1,0 +1,21 @@
+# IDEs
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Build tools and dependencies
+node_modules/
+target/
+
+# Logs
+*.log
